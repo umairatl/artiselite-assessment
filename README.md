@@ -1,2 +1,2 @@
 # artiselite-assessment
-tech assessment for interview for artiselite
+tech assessment for interview for artiselite - newslist
